@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+	
+	background-image: url("https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F372391462928789609%2F&psig=AOvVaw20KqF-t7vE0jkZiKIeozUc&ust=1681550059411000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiK8KGEqf4CFQAAAAAdAAAAABAE");
+	background-position:right top;
+	margin-right:100px;
+	
+}
+body{
+	background-color:lightblue;
+}
+#b{
+	color:red;
+}
+
+h1{
+	color:blue;
+	margin-left:40px
+
+}

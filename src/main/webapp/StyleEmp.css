@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body{
+	
+	background-image: url("https://www.color-hex.com/palettes/33245.png");
+	background-repeat:no-repeat;
+	background-position:right top;
+	margin-right:10px;
+	
+}
+
+
+
+h1{
+	color:maroon;
+	margin-left:40px;
+
+}
+body{
+	background-color:lightblue;
+}
+
+.ab{
+	color:violet;
+}
